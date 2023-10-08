@@ -19,10 +19,15 @@ OVERVIEW:
 
 GLOBAL VIEW:
 ![image](https://github.com/anushree6749/covid19_analysis_Powerbi/assets/138094071/8d2cff30-2b17-4eb2-81e2-bebdecb829e0)
+Stacked Bar Chart represent the country wise active cases.
+Maps displays country wise figures of confirmed cases.
+
 
 ![image](https://github.com/anushree6749/covid19_analysis_Powerbi/assets/138094071/fc744a8c-054a-4282-ab4d-a7fad80bdc51)
+Funnel portrays WHO region wise recovery
+Line and stacked column chart on the other hand draws a comparison between recovery Vs Deaths by WHO Region wise.
 
 ![image](https://github.com/anushree6749/covid19_analysis_Powerbi/assets/138094071/3175db61-222e-4541-a6d3-15b83395dc94)
 
-
+A stacked bar chart is used to draw a comparion between Active Vs recovered cases , country wise as well as recovered cases Vs Death Cases Country wise.
 
