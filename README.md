@@ -18,7 +18,7 @@ STEPS INVOLVED:
   Pie Chart again represent WHO region wise confirmed cases
   
 
-#GLOBAL VIEW:
+
 ![image](https://github.com/anushree6749/covid19_analysis_Powerbi/assets/138094071/8d2cff30-2b17-4eb2-81e2-bebdecb829e0)
 
 Stacked Bar Chart represent the country wise active cases.
