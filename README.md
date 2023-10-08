@@ -11,4 +11,15 @@ STEPS INVOLVED:
 
      4)Creating Measures.
 
-OVERVIEW
+OVERVIEW:
+![image](https://github.com/anushree6749/covid19_analysis_Powerbi/assets/138094071/6c342c04-d7ce-4f5e-8243-e4fbc7a328a8)
+
+GLOBAL VIEW:
+![image](https://github.com/anushree6749/covid19_analysis_Powerbi/assets/138094071/8d2cff30-2b17-4eb2-81e2-bebdecb829e0)
+
+![image](https://github.com/anushree6749/covid19_analysis_Powerbi/assets/138094071/fc744a8c-054a-4282-ab4d-a7fad80bdc51)
+
+![image](https://github.com/anushree6749/covid19_analysis_Powerbi/assets/138094071/3175db61-222e-4541-a6d3-15b83395dc94)
+
+
+
